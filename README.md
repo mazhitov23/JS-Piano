@@ -1,2 +1,2 @@
 # JS-Piano
-sharp
+Simple Piano using HTML, CSS, JS
